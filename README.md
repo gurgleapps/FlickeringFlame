@@ -6,7 +6,7 @@ Much better than the headtorch or tea light we used to use!
 
 Check it out in action:
 
-[![Flame Effect Video](https://img.youtube.com/vi/Nmrc0LR1ocU/0.jpg)](https://www.youtube.com/watch?v=Nmrc0LR1ocU)
+[![Flame Effect Video](https://img.youtube.com/vi/Nmrc0LR1ocU/0.jpg)](https://www.youtube.com/watch?v=Nmrc0LR1ocU&t=723s)
 
 You can pick up our custom kit from [our shop](https://gurgleapps.etsy.com/uk/listing/4386406336/rgb-led-matrix-halloween-pumpkin-flame).
 
