@@ -29,6 +29,7 @@ Supports both **1D LED strips** and **2D matrices** with optional **zig-zag wiri
    code.py
    config.py
    flame_ws2812.py
+    lib/neopixel.mpy
    ```
 2. Edit `config.py` to match your setup:
    ```python
@@ -65,6 +66,10 @@ while True:
 - Adjustable flicker, spark, and cooling parameters in `flame_ws2812.py`.
 
 ---
+
+> 🧩 Note: If `neopixel.mpy` isn’t present, copy it from the
+> [Adafruit CircuitPython Bundle](https://github.com/adafruit/Adafruit_CircuitPython_Bundle)
+> into the `lib/` folder on your board.
 
 ## 🪪 License
 
