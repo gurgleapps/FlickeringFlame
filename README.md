@@ -1,7 +1,16 @@
 Flickering Flame Effect
 ========================
 
-This is a flickering flame effect implementation for WS2812 NeoPixel LEDs using CircuitPython. The effect simulates a realistic flame by varying the brightness and color of the LEDs over time.
+We are excited to share our latest project: a flickering flame effect we use for our Halloween decorations. 
+Much better than the headtorch or tea light we used to use!
+
+Check it out in action:
+
+[![Flame Effect Video](https://img.youtube.com/vi/Nmrc0LR1ocU/0.jpg)](https://www.youtube.com/watch?v=Nmrc0LR1ocU)
+
+You can pick up our custom kit from [our shop](https://gurgleapps.etsy.com/uk/listing/4386406336/rgb-led-matrix-halloween-pumpkin-flame).
+
+Or feel free to build your own using the instructions below.
 
 Usage
 -----
